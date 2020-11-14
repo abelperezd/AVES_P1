@@ -26,7 +26,7 @@ Para el segundo caso, pasamos de la imagen de color a escala de grises y teniend
 ## [3]
 En este caso, aplicamos directamente la conversión a blanco y negro de la imagen original. Obtenemos también una imagen de menor tamaño (282 kB).
 
-![](https://drive.google.com/uc?export=view&id=1iPUK-NE9_y_xJ-mhLVJ0s-BHLWvgxKO6)
+![](https://drive.google.com/uc?export=view&id=1yJruJtHCQMagkqjZKWa3IPcK3A2i_6kI)
 
 ## [5]
 Tras ejecutar este script, obtenemos en pantalla la comparativa entre las dos imágenes, y a simple vista no observamos ninguna diferencia (la imagen de entrada es exactamente igual a la de salida, sin ninguna pérdida).
