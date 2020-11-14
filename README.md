@@ -15,7 +15,7 @@ La imagen de referencia que hemos utilizado en los apartados en los que hemos re
 ![](https://drive.google.com/uc?export=view&id=15GJsZnb0ugWx2UiARS7o2ENTFPopMajR
 )
 
-##[2]
+## [2]
 Una vez ejecutamos este script, los resultados obtenido son las dos siguientes imágenes:
 ![](https://drive.google.com/uc?export=view&id=1RfhvISMt7ilk5uS9r1iKXoDu491TYg50)    ![](https://drive.google.com/uc?export=view&id=1iPUK-NE9_y_xJ-mhLVJ0s-BHLWvgxKO6)
 
@@ -23,12 +23,12 @@ En el primer caso, dado que pasamos de una imagen de 2000x2000 a una de 200x200,
 
 Para el segundo caso, pasamos de la imagen de color a escala de grises y teniendo en cuenta que el formato que utilizamos es JPEG, tambien obtenemos una reducción en el tamaño del archivo (de 7.3 kB a 6.2 kB). En caso de utilizar otros formatos de salida, podríamos obtener imagenes con una mejor compresión.
 
-##[3]
+## [3]
 En este caso, aplicamos directamente la conversión a blanco y negro de la imagen original. Obtenemos también una imagen de menor tamaño (282 kB).
 
 ![](https://drive.google.com/uc?export=view&id=1iPUK-NE9_y_xJ-mhLVJ0s-BHLWvgxKO6)
 
-##[5]
+## [5]
 Tras ejecutar este script, obtenemos en pantalla la comparativa entre las dos imágenes, y a simple vista no observamos ninguna diferencia (la imagen de entrada es exactamente igual a la de salida, sin ninguna pérdida).
 
 ![](https://drive.google.com/uc?export=view&id=1i7K1cw5FssH20VqWb6ogI2XAkW9KHON0)
