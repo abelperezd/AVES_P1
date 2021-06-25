@@ -14,7 +14,7 @@ In the sections where we needed a reference image, the one used was the followin
 
 ![](https://drive.google.com/uc?export=view&id=15GJsZnb0ugWx2UiARS7o2ENTFPopMajR)
 
-## [2]
+## [2] <br/>
 Once we run this script, the results obtained are the following two images:
 ![](https://drive.google.com/uc?export=view&id=1RfhvISMt7ilk5uS9r1iKXoDu491TYg50) ![](https://drive.google.com/uc?export=view&id=1iPUK-NE9_y_xJ-mhLVJ0s-BHLWvgxKO6)
 
