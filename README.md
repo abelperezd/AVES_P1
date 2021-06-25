@@ -1,5 +1,6 @@
 ### Repository information
-In this repository we find the delivery of the Lab 1 of the SCAV subject (video part). 
+In this repository we find the delivery of the Lab 1 of the Audio and Video Encoding Systems
+subject (video part). 
 
 We have 5 .py files and in each of them we find a detailed explanation on how to use them, but in general they do the following:
 
@@ -14,8 +15,8 @@ In the sections where we needed a reference image, the one used was the followin
 
 ![](https://drive.google.com/uc?export=view&id=15GJsZnb0ugWx2UiARS7o2ENTFPopMajR)
 
-## [2] <br/>
-Once we run this script, the results obtained are the following two images:
+## [2] 
+Once we run this script, the results obtained are the following two images:<br/>
 ![](https://drive.google.com/uc?export=view&id=1RfhvISMt7ilk5uS9r1iKXoDu491TYg50) ![](https://drive.google.com/uc?export=view&id=1iPUK-NE9_y_xJ-mhLVJ0s-BHLWvgxKO6)
 
 In the first case, since we went from a 2000x2000 image to a 200x200 image, we obtain a great size reduction (from 336.6 kB to 7.3 kB).
